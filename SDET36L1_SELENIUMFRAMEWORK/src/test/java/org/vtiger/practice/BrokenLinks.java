@@ -33,6 +33,7 @@ for(Object link:allLinks) {
 	/*List<String> list=new ArrayList<>();
 for(Object link:allLinks)*/ 
 	
-}
+// allLinks= driver.findElements(By.xpath("//a"));
+//fetching the data by repository
 
 }
